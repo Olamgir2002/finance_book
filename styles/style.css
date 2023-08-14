@@ -224,6 +224,9 @@ body {
   .money__after{
     display: none;
   }
+  .app__data{
+    border: none;
+  }
 }
 
 .data__header:nth-child(3){
